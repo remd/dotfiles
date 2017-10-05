@@ -18,4 +18,6 @@ set smartcase
 
 set list
 
+set number
+
 color badwolf
