@@ -1,0 +1,16 @@
+[user]
+    name = Eric Dostie
+    email = ericmdostie@gmail.com
+[core]
+    autocrlf = input
+[pull]
+    ff = only
+[push]
+    default = simple
+[alias]
+    bv = branch -vv
+    f  = fetch
+    s  = status
+    sw = switch
+[color "branch"]
+    upstream = 6
