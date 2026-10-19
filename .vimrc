@@ -31,3 +31,6 @@ vmap <Nul> <Nop>
 cmap <Nul> <Nop>
 nmap <Nul> <Nop>
 
+" disable mouse
+set mouse=
+
